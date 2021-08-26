@@ -1,0 +1,17 @@
+.banner {
+    color: black;
+}
+
+h2 {
+    color: black;
+}
+
+.banner__img {
+    height: 100vh;
+    object-fit: cover;
+
+}
+
+.banner__title {
+    margin-top: 100px;
+}
